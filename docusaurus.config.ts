@@ -5,8 +5,8 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "Hướng dẫn sử dụng Insura",
-  tagline: "Hướng dẫn sử dụng Insura",
+  title: "Insura Docs",
+  tagline: "Tài liệu hướng dẫn và hỗ trợ sử dụng Insura",
   favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -73,7 +73,7 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "Hướng dẫn sử dụng Insura",
+      title: "Trang chủ",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
@@ -83,60 +83,48 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "tutorialSidebar",
           position: "left",
-          label: "Tutorial",
+          label: "Hướng dẫn sử dụng",
         },
-        { to: "/blog", label: "Blog", position: "left" },
-        {
-          href: "https://github.com/Qrysto/insura-docs",
-          label: "GitHub",
-          position: "right",
-        },
+        // { to: "/blog", label: "Blog", position: "left" },
+        // {
+        //   href: "https://github.com/Qrysto/insura-docs",
+        //   label: "GitHub",
+        //   position: "right",
+        // },
       ],
     },
     footer: {
-      style: "dark",
-      links: [
-        {
-          title: "Docs",
-          items: [
-            {
-              label: "Tutorial",
-              to: "/docs/intro",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "X",
-              href: "https://x.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      style: "light",
+      // links: [
+      //   {
+      //     title: "Tài liệu",
+      //     items: [
+      //       {
+      //         label: "Hướng dẫn sử dụng",
+      //         to: "/docs/intro",
+      //       },
+      //     ],
+      //   },
+      //   {
+      //     title: "Cộng đồng",
+      //     items: [
+      //       {
+      //         label: "Nhóm Facebook",
+      //         href: "https://www.facebook.com/groups/insura",
+      //       },
+      //     ],
+      //   },
+      //   {
+      //     title: "More",
+      //     items: [
+      //       {
+      //         label: "Blog",
+      //         to: "/blog",
+      //       },
+      //     ],
+      //   },
+      // ],
+      copyright: `Copyright © ${new Date().getFullYear()} Insura`,
     },
     prism: {
       theme: prismThemes.github,

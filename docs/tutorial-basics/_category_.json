@@ -1,8 +1,9 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Bắt đầu nhanh với Insura",
   "position": 2,
+  "collapsed": false,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "5 phút để thiết lập Insura và bắt đầu sử dụng"
   }
 }
