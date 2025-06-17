@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Thêm hợp đồng thủ công
+# 3.1. Thêm hợp đồng thủ công
 
 * Sau khi tạo khách hàng thành công, bạn sẽ được chuyển tới trang hồ sơ khách hàng. Tại đây chọn **Thêm hợp đồng đầu tiên**.
 

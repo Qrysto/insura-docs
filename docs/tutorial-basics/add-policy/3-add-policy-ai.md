@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Thêm hợp đồng bằng AI
+# 3.2. Thêm hợp đồng bằng AI
 
 * Tại giao diện thêm hợp đồng, nhấn vào **Tải HĐ** ở góc trái bên dưới
 
