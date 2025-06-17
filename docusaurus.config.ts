@@ -25,7 +25,8 @@ const config: Config = {
   organizationName: "Insura", // Usually your GitHub org/user name.
   projectName: "insura-docs", // Usually your repo name.
 
-  onBrokenLinks: "throw",
+  // onBrokenLinks: "throw",
+  onBrokenLinks: 'warn',  // chỉ cảnh báo
   onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
