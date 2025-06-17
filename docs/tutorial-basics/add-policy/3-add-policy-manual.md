@@ -16,3 +16,4 @@ sidebar_position: 1
 * Nhấn vào **Hoàn thành** để tạo hợp đồng
 
 | ✅ Mẹo: Bạn có thể chỉ nhập những thông tin bắt buộc để khởi tạo hợp đồng và quay lại chỉnh sửa chi tiết sau đó. |
+| :---- |
