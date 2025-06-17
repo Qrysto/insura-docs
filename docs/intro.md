@@ -9,7 +9,7 @@ Insura giúp bạn đơn giản hóa việc theo dõi, phân tích và chăm só
 
 ![How Insura works](../static/img/how-insura-works.png)
 
-### **🎯 Mục tiêu của Insura**
+### **Mục tiêu của Insura**
 
 Chúng tôi xây dựng Insura với 3 mục tiêu chính:
 
@@ -22,7 +22,7 @@ Chúng tôi xây dựng Insura với 3 mục tiêu chính:
 
 ---
 
-### **👥 Dành cho ai?**
+### **Dành cho ai?**
 
 Đối tượng sử dụng của Insura là những tư vấn viên bảo hiểm đang có những nhu cầu sau:
 
@@ -32,7 +32,7 @@ Chúng tôi xây dựng Insura với 3 mục tiêu chính:
 
 ---
 
-### **🧩 Những gì bạn có thể làm với Insura**
+### **Những gì bạn có thể làm với Insura**
 
 * Nhập & tóm tắt hợp đồng nhanh chóng với công nghệ AI
 * Xem tổng quan và chi tiết quyền lợi của tất cả các thành viên trong hợp đồng bảo hiểm thông báo bản báo cáo được thiết kế tối ưu.
@@ -41,7 +41,7 @@ Chúng tôi xây dựng Insura với 3 mục tiêu chính:
 
 ---
 
-### **🚀 Bắt đầu ngay\!**
+## **Bắt đầu ngay\!**
 
 Chỉ mất **dưới 5 phút** để bạn:
 

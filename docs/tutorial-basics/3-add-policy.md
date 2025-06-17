@@ -1,8 +1,25 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
+# 3. Thêm hợp đồng
 
-# 3.2. Thêm hợp đồng bằng AI
+### Thêm hợp đồng thủ công
+
+* Sau khi tạo khách hàng thành công, bạn sẽ được chuyển tới trang hồ sơ khách hàng. Tại đây chọn **Thêm hợp đồng đầu tiên**.
+
+* Lựa chọn công ty bảo hiểm
+
+* Tại giao diện nhập thông tin hợp đồng, bạn hãy nhập đầy đủ các trường thông tin ở 3 thẻ:  
+  * Thông tin  
+  * Thành viên  
+  * Sản phẩm
+
+* Nhấn vào **Hoàn thành** để tạo hợp đồng
+
+| ✅ Mẹo: Bạn có thể chỉ nhập những thông tin bắt buộc để khởi tạo hợp đồng và quay lại chỉnh sửa chi tiết sau đó. |
+| :---- |
+
+### Thêm hợp đồng bằng AI
 
 * Tại giao diện thêm hợp đồng, nhấn vào **Tải HĐ** ở góc trái bên dưới
 
