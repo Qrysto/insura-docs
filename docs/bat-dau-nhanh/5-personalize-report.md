@@ -1,5 +1,6 @@
 ---
 sidebar_position: 5
+slug: 5-ca-nhan-hoa-bao-cao
 ---
 
 # 5. Cá nhân hóa báo cáo

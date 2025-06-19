@@ -1,5 +1,6 @@
 ---
 sidebar_position: 3
+slug: 3-them-hop-dong
 ---
 # 3. Thêm hợp đồng
 

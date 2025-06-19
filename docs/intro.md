@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /gioi-thieu-ve-insura
 ---
 # Giới thiệu về Insura
 

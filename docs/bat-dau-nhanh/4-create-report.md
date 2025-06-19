@@ -1,10 +1,11 @@
 ---
 sidebar_position: 4
+slug: 4-tao-bao-cao
 ---
 
 # 4. Tạo báo cáo
 
-* Quay trở lại trang hồ sơ của khách hàng, nhấn **Tạo báo cáo** trong cụm nút bên dưới màn hình.
+* Quay trở lại trang Hồ sơ khách hàng, nhấn **Tạo báo cáo** trong cụm nút bên dưới màn hình.
 * Chọn những hợp đồng bạn muốn phân tích bên trong báo cáo
 * Nhấn **Tạo báo cáo** và chờ trong giây lát, báo cáo của bạn đã sẵn sàng.
 

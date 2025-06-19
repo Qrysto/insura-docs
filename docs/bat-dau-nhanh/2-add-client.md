@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+slug: 2-them-khach-hang
 ---
 
 # 2. Thêm khách hàng
