@@ -5,48 +5,45 @@ import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  image: string;
   description: ReactNode;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Tóm tắt hợp đồng nhanh chóng',
+    image: require('@site/static/img/document.png').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Tổng hợp tất cả hợp đồng của khách hàng vào một báo cáo ngắn gọn, kèm những thống kê trực quan, hữu ích về quyền lợi và phí đóng.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Nhắc đóng phí',
+    image: require('@site/static/img/calendar.png').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Không còn nỗi lo hợp đồng mất hiệu lực với quy trình nhiều bước giúp hợp đồng được nhắc phí hiệu quả, giữ trọn lời hứa với khách hàng.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Nhắc sinh nhật',
+    image: require('@site/static/img/present.png').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Trở thành người tận tâm và chu đáo với công cụ ghi nhớ sinh nhật của không chỉ khách hàng mà còn cả những người thân của họ.
       </>
     ),
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, image, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={image} className={styles.featureSvg} alt={title} style={{ width: '160px', height: 'auto', marginBottom: '2rem', marginTop: '2rem' }}/>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
