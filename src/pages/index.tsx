@@ -1,4 +1,4 @@
-import type {ReactNode} from 'react';
+import type { ReactNode } from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -9,7 +9,7 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -20,7 +20,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/gioi-thieu-ve-insura">
+            to="/docs/gioi-thieu-ve-insura"
+          >
             Hướng dẫn sử dụng Insura - 5 phút ⏱️
           </Link>
         </div>
@@ -30,11 +31,12 @@ function HomepageHeader() {
 }
 
 export default function Home(): ReactNode {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Trang tài liệu và hướng dẫn sử dụng sản phẩm Insura">
+      description="Trang tài liệu và hướng dẫn sử dụng sản phẩm Insura"
+    >
       <HomepageHeader />
       <main>
         <HomepageFeatures />
@@ -42,3 +44,4 @@ export default function Home(): ReactNode {
     </Layout>
   );
 }
+// Test
