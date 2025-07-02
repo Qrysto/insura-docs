@@ -69,14 +69,3 @@ Nếu bạn gặp sự cố khi sử dụng Insura, đừng lo\! Dưới đây l
 * Bạn có thể ẩn đi quyền lợi này để tránh hiểu nhầm về sau cho khách hàng bằng cách vào **Cài đặt → Báo cáo → Hiển thị quyền lợi** và bỏ chọn 2 nhóm quyền lợi:  
   * **Thương tật bộ phận vĩnh viễn**  
   * **TTBPVV do tai nạn**
-
----
-
-### **5. Không nhận quyền lợi Bảo hiểm sức khỏe ở trang Tổng hợp**
-
-**Triệu chứng:** Nhập đúng email và mật khẩu nhưng vẫn không vào được hệ thống.
-
-**Cách khắc phục:**
-* Kiểm tra lại email đã đăng ký đúng chưa (viết hoa/thường vẫn tính như nhau).
-* Kiểm tra xem có đang bật **Caps Lock** khi nhập mật khẩu không.
-* Nếu vẫn không đăng nhập được, nhấn vào **“Quên mật khẩu”** để đặt lại mật khẩu mới.
